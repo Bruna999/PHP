@@ -5,6 +5,9 @@
 - Editor de Código (VSCode ou Sublime Text)
 
 # Status do Curso
+- 0% completo.
+
+# Sumário
 
 - Configuração do ambiente no Linux;
 - Primeiro Programa com PHP;
