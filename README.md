@@ -5,6 +5,7 @@
 - Editor de Código (VSCode ou Sublime Text)
 
 # Status do Curso
+
 - 0% completo.
 
 # Sumário
