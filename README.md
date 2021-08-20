@@ -1,5 +1,5 @@
 <head>
-<div class="logo">
+<div class="logo" align="center">
   <img src="./course-logo.png" align="left" height="125" width="150">
    <h1>Cursop de PHP para Iniciantes</h1>
    <br>
