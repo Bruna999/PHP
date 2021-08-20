@@ -1,12 +1,12 @@
-<div class="logo" >
-  <img src="./course-logo.png">
-</div>
+<a href="url">
+  <img src="./course-logo.png align="left" height="48" width="48" >
+</a>
 
-.logo{
+/*.logo{
  display: block; 
  margin-left: auto;
  margin-right: auto;
-}
+}*/
 
 # Tecnologias utilizadas
 
