@@ -1,5 +1,5 @@
 <div class="logo">
-<img src="./course-logo.png" alt="#">
+  <img src="./course-logo.png" width="320" height="205">
 </div>
 
 
