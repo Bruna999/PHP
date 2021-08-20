@@ -1,3 +1,7 @@
+<div class=logo>
+<img = "."></img>
+</div>
+
 # Tecnologias utilizadas
 
 - PHP PHP 7.3.29
