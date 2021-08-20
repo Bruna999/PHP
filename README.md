@@ -1,30 +1,57 @@
-<head>
-<div class="logo" align="center">
-  <img src="./course-logo.png" align="left" height="125" width="150">
-   <h1>Cursop de PHP para Iniciantes</h1>
-   <br>
-   <p1>Para que você, que é iniciante, aprenda a programar com PHP do jeito certo.</p1>
+<div align="center">
+    <img src="course-logo.png" alt="PHP para Iniciantes" width="200px" />
 </div>
-</head>
 
-# Tecnologias utilizadas
+<h1 align="center">Curso de PHP para Iniciantes</h1>
 
-- PHP PHP 7.3.29
-- XAMPP (com PHP 7.3.29)
-- Editor de Código (VSCode ou Sublime Text)
+<p align="center">Para que você, que é iniciante, aprenda a programar com PHP do jeito certo.</p>
 
-# Status do Curso
+<p align="center">
+    <img src="https://img.shields.io/github/license/codeeasy-dev/php-para-iniciantes" />
+    <img src="https://img.shields.io/github/repo-size/codeeasy-dev/php-para-iniciantes" />
+    <a href="https://facebook.com/codeeasy.com.br" target="_blank">
+        <img src="https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white&link=https://facebook.com/codeeasy.com.br" />
+    </a>
+    <a href="https://youtube.com/codeeasy" target="_blank">
+        <img src="https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&link=https://youtube.com/codeeasy" />
+    </a>
+    <a href="https://instagram.com/codeeasy.dev" target="_blank">
+        <img src="https://img.shields.io/badge/-@codeeasy.dev-ff69b4?logo=Instagram&logoColor=white&link=https://instagram.com/codeeasy.dev" />
+    </a>
+    <a href="mailto:felipe@codeeasy.com.br" target="_blank">
+        <img src="https://img.shields.io/badge/-contato%40codeeasy.com.br-red?logo=Gmail&logoColor=white&link=mailto:contato@codeeasy.com.br" />
+    </a>
+</p>
 
-- 0% completo.
+## Requisitos para o curso
 
-# Sumário
+* Conhecimentos básicos em lógica de programação.
 
-- Configuração do ambiente no Linux;
-- Primeiro Programa com PHP;
-- Variáveis e constantes;
-- Estruturas condicionais;
-- Estruturas de repetição;
-- Funçôes;
-- Arrays;
-- Tipos de dados;
-- Projeto prático.
+## Tecnologias utilizadas
+
+* PHP 7.4
+* XAMPP (com PHP 7.4)
+* Editor de Código (VSCode ou Sublime Text)
+
+## Status do Curso
+
+100% completo.
+
+## Sumário
+
+* O que é o PHP?;
+* Configuração do ambiente no Windows;
+* Configuração do ambiente no Linux;
+* Primeiro projeto;
+* Variáveis e constantes;
+* Tipos de dados;
+* Operadores aritméticos;
+* Strings;
+* Operadores de comparação;
+* Operadores lógicos;
+* Estruturas condicionais;
+* Arrays;
+* Estruturas de repetição;
+* Funções;
+* Projeto prático: Jogo da Velha - parte 1;
+* Projeto prático: Jogo da Velha - parte 2;
