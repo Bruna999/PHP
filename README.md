@@ -1,7 +1,12 @@
-<div class="logo" align=”right”>
-  <img src="./course-logo.png" width="515" height="250">
+<div class="logo" >
+  <img src="./course-logo.png">
 </div>
 
+.logo{
+ display: block; 
+ margin-left: auto;
+ margin-right: auto;
+}
 
 # Tecnologias utilizadas
 
