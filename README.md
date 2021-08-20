@@ -1,3 +1,8 @@
+<div class="logo">
+<img src="./course-logo.png" alt="#">
+</div>
+
+
 # Tecnologias utilizadas
 
 - PHP PHP 7.3.29
