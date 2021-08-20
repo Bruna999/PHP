@@ -1,4 +1,4 @@
-<div class="logo" align=”middle”>>
+<div class="logo" align=”right”>>
   <img src="./course-logo.png" width="500" height="500">
 </div>
 
