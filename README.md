@@ -1,12 +1,6 @@
 <a href="url">
-  <img src="./course-logo.png align="left" height="48" width="48" >
+  <img src="./course-logo.png align="left" height="125" width="150" >
 </a>
-
-/*.logo{
- display: block; 
- margin-left: auto;
- margin-right: auto;
-}*/
 
 # Tecnologias utilizadas
 
