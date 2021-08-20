@@ -1,9 +1,11 @@
+<head>
 <div class="logo">
   <img src="./course-logo.png" align="left" height="125" width="150">
-  <h1>Cursop de PHP para Iniciantes</h1>
-  <br>
-  <p1>Para que você, que é iniciante, aprenda a programar com PHP do jeito certo.</p1>
+   <h1>Cursop de PHP para Iniciantes</h1>
+   <br>
+   <p1>Para que você, que é iniciante, aprenda a programar com PHP do jeito certo.</p1>
 </div>
+</head>
 
 # Tecnologias utilizadas
 
