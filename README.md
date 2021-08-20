@@ -1,10 +1,11 @@
 <div align="center">
-    <img src="course-logo.png" alt="PHP para Iniciantes" width="200px" />
+    <img src="./course-logo.png" alt="PHP para Iniciantes" width="200px" />
 </div>
 
 <h1 align="center">Curso de PHP para Iniciantes</h1>
 
 <p align="center">Para que você, que é iniciante, aprenda a programar com PHP do jeito certo.</p>
+<br>
 
 ## Requisitos para o curso
 
